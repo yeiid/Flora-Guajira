@@ -1,0 +1,16 @@
+
+
+
+
+
+.home-form{
+    display: grid;
+    place-items: center;
+}
+
+@media (min-width:640px){
+
+    .home-form{
+        margin: 14px;
+    }
+}
